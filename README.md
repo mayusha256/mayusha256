@@ -20,4 +20,4 @@ Minecraft is my life! <img src="assets/minecraft_sheep.gif" alt="minecraft sheep
 
 Not a fan of Plasma/GNOME or Wayland — I prefer X11
 
-<img src="assets/touch_grass.jpg" alt="touch grass" style="width:512px;" />
+<img src="assets/touch_grass.jpg" alt="touch grass" style="width:256px;" />
